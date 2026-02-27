@@ -29,5 +29,5 @@ I am a software developer with over **15 years of experience** building robust s
 ---
 
 ### 📊 My GitHub Stats
-![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=barrile&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barrile&layout=compact&theme=radical)
